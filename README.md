@@ -54,11 +54,22 @@ I specialize in building end-to-end ML pipelines:
 
 ---
 
-### 📊 GitHub Activity
+### 📊 Activity & Coding Stats
 
-[![Mohamed's Stats](https://github-readme-stats.vercel.app/api?username=MohamedBenAhmed55&show_icons=true&theme=tokyonight&cache_seconds=86400)](https://github.com/MohamedBenAhmed55)
+<p align="left">
+  <a href="https://github.com/MohamedBenAhmed55">
+    <img src="https://github-readme-stats.vercel.app/api?username=MohamedBenAhmed55&show_icons=true&theme=tokyonight&cache_seconds=86400" alt="Mohamed's Stats" />
+  </a>
+  <a href="https://github.com/MohamedBenAhmed55">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedBenAhmed55&layout=compact&theme=tokyonight&cache_seconds=86400" alt="Top Languages" />
+  </a>
+</p>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedBenAhmed55&layout=compact&theme=tokyonight&cache_seconds=86400)](https://github.com/MohamedBenAhmed55)
+<p align="left">
+  <a href="https://leetcode.com/u/MohamedBa11/">
+    <img src="https://leetcard.jacoblin.cool/MohamedBa11?theme=tokyonight&ext=svg" alt="Mohamed's LeetCode Stats" />
+  </a>
+</p>
 
 ---
 
