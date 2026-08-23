@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mohamed Ben Ahmed
 
-### 🚀 Software Engineer | Fintech Specialist | Full Stack Software Engineer | Mobile Developer | AI, Data and DevOps Enthusiast | 🏆 Presidential Award Winner
+### Software Engineer | Fintech Specialist | Full Stack Software Engineer | Mobile Developer | AI, Data and DevOps Enthusiast | 🏆 Presidential Award Winner
 
 I am a high-performance Software Engineer with a background of elite academic excellence. From being a **Presidential Award** recipient to engineering mission-critical systems in foreign exchange platform ecosystem, I combine theoretical depth with industrial-grade execution. Mainly a robust Backend Developer with a deep focus on **Java/Spring Boot** and **Microservices Architecture**. My experience spans from high-stakes **Foreign Exchange (FX)** systems to innovative **Agriculture 4.0** Machine Learning models. I bridge the gap between complex backend logic and sleek, modern user interfaces.
 
